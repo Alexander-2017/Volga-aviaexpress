@@ -1,0 +1,54 @@
+body {
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: #7fc7ff;
+}
+
+.name {
+    color: #0000ff;
+    margin-left: 500px;
+    font-size: 50px;
+    float: right;
+    float: inherit;
+}
+
+.logo {
+    padding: 0px;
+    float: left;
+}
+
+.attic {
+    margin-left: 10px;
+    padding: 20px;
+    float: inherit;
+    padding-bottom: 10px;
+}
+
+.advertising {
+    margin-left: 50px;
+    margin-top: 100px;
+    border: 4px double black;
+    float: left;
+    font-size: 25px;
+    padding-top: 230px;
+    padding-bottom: 230px;
+}
+
+.basis {
+    color: #000080;
+    float: right;
+    float: inherit;
+    margin-left: 350px;
+    font-size: 30px;
+    margin-bottom: 470px;
+    margin-top: 50px;
+    word-wrap: break-word;
+}
+
+.footer {
+    margin-top: 450px;
+    font-size: 20px;
+    padding-left: 800px;
+    height: 20px;
+    background-color: #b3deff;
+}
